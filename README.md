@@ -111,7 +111,7 @@ manual-testing-inflow-sales-order
 │
 └── 03_Sales_Order_Presentation
        InFlow_Inventory_Sales_Order_Project.pptx
----
+
 
 
 📋 Project Deliverables
@@ -120,7 +120,7 @@ Manual Test Cases
 Test Execution Report
 Bug Reports
 Project Presentation
----
+
 
 
 👥 Team Information
@@ -137,7 +137,7 @@ Reviewed teammates' test cases for accuracy and completeness.
 Coordinated testing activities within the team.
 Assisted team members in resolving testing-related issues.
 Ensured project deliverables were completed on time.
----
+
 
 
 🛠️ Tools & Technologies
@@ -146,7 +146,7 @@ Microsoft Excel
 Microsoft PowerPoint
 Git
 GitHub
----
+
 
 🌟 Project Highlights
 Followed the complete Software Testing Life Cycle (STLC).
@@ -156,7 +156,7 @@ Executed manual test cases and documented results.
 Identified and reported software defects with proper bug documentation.
 Worked as the Team Lead in a three-member testing team.
 Prepared project documentation and presentation.
----
+
 
 📚 Key Learning Outcomes
 Applied Software Testing Life Cycle (STLC) concepts in a practical project.
