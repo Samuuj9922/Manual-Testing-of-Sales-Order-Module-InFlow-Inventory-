@@ -99,7 +99,7 @@ To perform comprehensive manual testing of the Sales Order module by designing a
 ## 📂 Repository Contents
 
 ```text
-manual-testing-inflow-sales-order
+Manual-testing-sales-order_module
 │
 ├── README.md
 │
