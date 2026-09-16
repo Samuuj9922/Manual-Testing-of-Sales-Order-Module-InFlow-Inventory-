@@ -111,23 +111,16 @@ README.md
 
 ---      
 
-**📋 Project Deliverables**
-
+📋 Project Deliverables
 Software Requirements Specification (SRS)
-Test Scenarios
 Manual Test Cases
+Test Execution Report
 Bug Reports
 Project Presentation
-
----
-
-**👥 Team Information**
-
+👥 Team Information
 Team Size: 3 Members
 My Role: Team Lead
-
-**Responsibilities**
-
+Responsibilities
 Performed requirement analysis using the provided SRS.
 Participated in test planning and environment setup.
 Designed positive and negative test cases.
@@ -135,53 +128,30 @@ Executed manual test cases.
 Reported defects with appropriate severity and priority.
 Reviewed teammates' test cases for accuracy and completeness.
 Coordinated testing activities within the team.
-Assisted team members with testing-related issues.
-Monitored testing progress.
-Reviewed reported defects.
-Ensured project deliverables were completed within the planned timeline.
-
----
-
-**🛠️ Tools & Technologies**
-
+Assisted team members in resolving testing-related issues.
+Ensured project deliverables were completed on time.
+🛠️ Tools & Technologies
 InFlow Inventory
 Microsoft Excel
 Microsoft PowerPoint
 Git
 GitHub
-
----
-
-**🌟 Project Highlights**
-
-Followed the Software Testing Life Cycle (STLC).
+🌟 Project Highlights
+Followed the complete Software Testing Life Cycle (STLC).
 Performed manual testing based on a Software Requirements Specification (SRS).
 Designed positive and negative test cases.
-Performed functional and UI testing.
 Executed manual test cases and documented results.
-Identified and reported software defects.
-Applied Severity and Priority concepts during defect reporting.
+Identified and reported software defects with proper bug documentation.
+Worked as the Team Lead in a three-member testing team.
 Prepared project documentation and presentation.
-
----
-
-**📚 Key Learning Outcomes**
-
+📚 Key Learning Outcomes
 Applied Software Testing Life Cycle (STLC) concepts in a practical project.
 Improved requirement analysis and test case design skills.
 Gained hands-on experience in manual test execution.
-Learned structured defect reporting using Severity and Priority.
-Improved understanding of functional, UI, positive, negative, regression, and retesting activities.
-Strengthened collaboration, communication, and leadership skills.
-Improved QA documentation and reporting skills.
-
----
-
-**👩‍💻 Author**
+Learned structured defect reporting using severity and priority classification.
+Strengthened collaboration, communication, and leadership skills while coordinating a three-member testing team.
+Improved documentation and reporting skills throughout the testing process.
+👩‍💻 Author
 
 Samruddhi Jagtap
-
-Aspiring QA Engineer | Manual Testing | Automation Testing
-
-
-
+Aspiring QA Engineer | Manual Testing | Learning Automation Testing
