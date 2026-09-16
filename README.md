@@ -111,59 +111,91 @@ manual-testing-inflow-sales-order
 │
 └── 03_Sales_Order_Presentation
        InFlow_Inventory_Sales_Order_Project.pptx
+## 📂 Repository Contents
 
+```text
+manual-testing-inflow-sales-order
+│
+├── README.md
+│
+├── Sales_Order_SRS
+│      Sales_Order_SRS_01.jpeg
+│      Sales_Order_SRS_02.jpeg
+│
+├── Test_Artifacts
+│      Sales_order project.xlsx
+│
+└── Sales_Order_Presentation
+       InFlow_Inventory_Sales_Order_Project.pptx
+```
 
+---
 
-📋 Project Deliverables
-Software Requirements Specification (SRS)
-Manual Test Cases
-Test Execution Report
-Bug Reports
-Project Presentation
+## 📋 Project Deliverables
 
+- Software Requirements Specification (SRS)
+- Manual Test Cases
+- Test Execution Report
+- Bug Reports
+- Project Presentation
 
+---
 
-👥 Team Information
-Team Size: 3 Members
-My Role: Team Lead
+## 👥 Team Information
 
-Responsibilities
-Performed requirement analysis using the provided SRS.
-Participated in test planning and environment setup.
-Designed positive and negative test cases.
-Executed manual test cases.
-Reported defects with appropriate severity and priority.
-Reviewed teammates' test cases for accuracy and completeness.
-Coordinated testing activities within the team.
-Assisted team members in resolving testing-related issues.
-Ensured project deliverables were completed on time.
+- **Team Size:** 3 Members
+- **My Role:** Team Lead
 
+### Responsibilities
 
+- Performed requirement analysis using the provided SRS.
+- Participated in test planning and environment setup.
+- Designed positive and negative test cases.
+- Executed manual test cases.
+- Reported defects with appropriate severity and priority.
+- Reviewed teammates' test cases for accuracy and completeness.
+- Coordinated testing activities within the team.
+- Assisted team members in resolving testing-related issues.
+- Ensured project deliverables were completed on time.
 
-🛠️ Tools & Technologies
-InFlow Inventory
-Microsoft Excel
-Microsoft PowerPoint
-Git
-GitHub
+---
 
+## 🛠️ Tools & Technologies
 
-🌟 Project Highlights
-Followed the complete Software Testing Life Cycle (STLC).
-Performed manual testing based on a Software Requirements Specification (SRS).
-Designed positive and negative test cases.
-Executed manual test cases and documented results.
-Identified and reported software defects with proper bug documentation.
-Worked as the Team Lead in a three-member testing team.
-Prepared project documentation and presentation.
+- InFlow Inventory
+- Microsoft Excel
+- Microsoft PowerPoint
+- Git
+- GitHub
 
+---
 
-📚 Key Learning Outcomes
-Applied Software Testing Life Cycle (STLC) concepts in a practical project.
-Improved requirement analysis and test case design skills.
-Gained hands-on experience in manual test execution.
-Learned structured defect reporting using severity and priority classification.
-Strengthened collaboration, communication, and leadership skills while coordinating a three-member testing team.
-Improved documentation and reporting skills throughout the testing process.
+## 🌟 Project Highlights
 
+- Followed the complete Software Testing Life Cycle (STLC).
+- Performed manual testing based on a Software Requirements Specification (SRS).
+- Designed positive and negative test cases.
+- Executed manual test cases and documented results.
+- Identified and reported software defects with proper bug documentation.
+- Worked as the Team Lead in a three-member testing team.
+- Prepared project documentation and presentation.
+
+---
+
+## 📚 Key Learning Outcomes
+
+- Applied Software Testing Life Cycle (STLC) concepts in a practical project.
+- Improved requirement analysis and test case design skills.
+- Gained hands-on experience in manual test execution.
+- Learned structured defect reporting using severity and priority classification.
+- Strengthened collaboration, communication, and leadership skills while coordinating a three-member testing team.
+- Improved documentation and reporting skills.
+
+---
+
+## 👩‍💻 Author
+
+**Samruddhi Jagtap**
+
+Aspiring QA Engineer | Manual Testing | Learning Automation Testing
 
