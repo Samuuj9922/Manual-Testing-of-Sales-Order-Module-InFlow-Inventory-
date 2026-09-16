@@ -97,32 +97,27 @@ To perform comprehensive manual testing of the Sales Order module by designing a
 ---
 ## 📂 Repository Contents
 
-```text
-Manual-Testing-of-Sales-Order-Module-InFlow-Inventory
-│
-├── README.md
-│
-├── 01_SRS
-│      Sales_Order_SRS.pdf
-│
-├── 02_Test_Artifacts
-│      Sales_Order_Test_Artifacts.xlsx
-│
-└── 03_Project_Presentation
-       Sales_Order_Project_Presentation.pptx
-       application.png
----
+01_Sales_Order_SRS
+    ├── Sales_Order_SRS_01.jpeg
+    └── Sales_Order_SRS_02.jpeg
+
+02_Test_Artifacts
+    └── Sales_Order_Test_Artifacts.xlsx
+
+03_Sales_Order_Presentation
+    └── InFlow_Inventory_Sales_Order_Project.pptx
+
+README.md
+      
 
 📋 Project Deliverables
 
 Software Requirements Specification (SRS)
 Test Scenarios
 Manual Test Cases
-Test Execution Report
 Bug Reports
-Test Summary Report
 Project Presentation
-Application Screenshots
+
 ---
 
 👥 Team Information
@@ -151,8 +146,6 @@ Ensured project deliverables were completed within the planned timeline.
 InFlow Inventory
 Microsoft Excel
 Microsoft PowerPoint
-Jira
-Google Chrome
 Git
 GitHub
 ---
