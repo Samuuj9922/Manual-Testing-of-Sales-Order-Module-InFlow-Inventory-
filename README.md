@@ -102,12 +102,11 @@ Manual-Testing-of-Sales-Order-Module-InFlow-Inventory
 │
 ├── README.md
 │
-├── 01_SRS
-│      Sales_Order_SRS.pdf
+├── 01_Sales_Order_SRS
 │
-├── 02_Test_Artifacts
-│      Sales_Order_Test_Artifacts.xlsx
+├── 02_Sales_Order_Project.xlsx
+│      
 │
-└── 03_Project_Presentation
-       Sales_Order_Project_Presentation.pptx
-       application.png
+└── 03_Sales_Order_Presentation
+       PPT_.pptx
+
