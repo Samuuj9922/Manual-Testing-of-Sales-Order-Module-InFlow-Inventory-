@@ -1,5 +1,8 @@
 # Manual Testing Project – InFlow Inventory Sales Order Module
-
+![Testing](https://img.shields.io/badge/Testing-Manual%20Testing-blue)
+![Process](https://img.shields.io/badge/Process-STLC-success)
+![Role](https://img.shields.io/badge/Role-Team%20Lead-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## 🖥️ Application Under Test
 
