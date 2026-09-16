@@ -111,7 +111,7 @@ README.md
 
 ---      
 
-📋 Project Deliverables
+**📋 Project Deliverables**
 
 Software Requirements Specification (SRS)
 Test Scenarios
@@ -121,12 +121,12 @@ Project Presentation
 
 ---
 
-👥 Team Information
+**👥 Team Information**
 
 Team Size: 3 Members
 My Role: Team Lead
 
-Responsibilities
+**Responsibilities**
 
 Performed requirement analysis using the provided SRS.
 Participated in test planning and environment setup.
@@ -142,16 +142,17 @@ Ensured project deliverables were completed within the planned timeline.
 
 ---
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 
 InFlow Inventory
 Microsoft Excel
 Microsoft PowerPoint
 Git
 GitHub
+
 ---
 
-🌟 Project Highlights
+**🌟 Project Highlights**
 
 Followed the Software Testing Life Cycle (STLC).
 Performed manual testing based on a Software Requirements Specification (SRS).
@@ -164,7 +165,7 @@ Prepared project documentation and presentation.
 
 ---
 
-📚 Key Learning Outcomes
+**📚 Key Learning Outcomes**
 
 Applied Software Testing Life Cycle (STLC) concepts in a practical project.
 Improved requirement analysis and test case design skills.
@@ -173,9 +174,10 @@ Learned structured defect reporting using Severity and Priority.
 Improved understanding of functional, UI, positive, negative, regression, and retesting activities.
 Strengthened collaboration, communication, and leadership skills.
 Improved QA documentation and reporting skills.
+
 ---
 
-👩‍💻 Author
+**👩‍💻 Author**
 
 Samruddhi Jagtap
 
