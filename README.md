@@ -98,15 +98,79 @@ To perform comprehensive manual testing of the Sales Order module by designing a
 
 ## 📂 Repository Contents
 
-Manual-Testing-of-Sales-Order-Module-InFlow-Inventory
+## 📁 Project Structure
+
+```text
+InFlow-Inventory-Sales-Order
 │
-├── README.md
+├── Sales_Order_SRS
+│   ├── Sales_Order_SRS_01.jpeg
+│   └── Sales_Order_SRS_02.jpeg
 │
-├── 01_Sales_Order_SRS
+├── Test_Artifacts
+│   └── Sales_order project.xlsx
 │
-├── 02_Sales_Order_Project.xlsx
-│      
+├── Sales_Order_Presentation
+│   └── InFlow_Inventory_Sales_Order_Project.pptx
 │
-└── 03_Sales_Order_Presentation
-       PPT_.pptx
+└── README.md
+
+
+📋 Project Deliverables
+Software Requirements Specification (SRS)
+Manual Test Cases
+Test Execution Report
+Bug Reports
+Project Presentation
+
+
+👥 Team Information
+Team Size: 3 Members
+My Role: Team Lead
+
+
+Responsibilities
+Performed requirement analysis using the provided SRS.
+Participated in test planning and environment setup.
+Designed positive and negative test cases.
+Executed manual test cases.
+Reported defects with appropriate severity and priority.
+Reviewed teammates' test cases for accuracy and completeness.
+Coordinated testing activities within the team.
+Assisted team members in resolving testing-related issues.
+Ensured project deliverables were completed on time.
+
+🛠️ Tools & Technologies
+InFlow Inventory
+Microsoft Excel
+Microsoft PowerPoint
+Git
+GitHub
+
+
+🌟 Project Highlights
+Followed the complete Software Testing Life Cycle (STLC).
+Performed manual testing based on a Software Requirements Specification (SRS).
+Designed positive and negative test cases.
+Executed manual test cases and documented results.
+Identified and reported software defects with proper bug documentation.
+Worked as the Team Lead in a three-member testing team.
+Prepared project documentation and presentation.
+
+
+📚 Key Learning Outcomes
+Applied Software Testing Life Cycle (STLC) concepts in a practical project.
+Improved requirement analysis and test case design skills.
+Gained hands-on experience in manual test execution.
+Learned structured defect reporting using severity and priority classification.
+Strengthened collaboration, communication, and leadership skills while coordinating a three-member testing team.
+Improved documentation and reporting skills throughout the testing process.
+
+👩‍💻 Author
+Samruddhi Jagtap Aspiring QA Engineer | Manual Testing | Learning Automation Testing
+
+
+
+
+
 
