@@ -95,95 +95,97 @@ To perform comprehensive manual testing of the Sales Order module by designing a
 - Summarized testing activities and project outcomes.
 
 ---
-
 ## 📂 Repository Contents
 
-## 📁 Project Structure
-
 ```text
-InFlow-Inventory-Sales-Order
+Manual-Testing-of-Sales-Order-Module-InFlow-Inventory
 │
-├── Sales_Order_SRS
-│   ├── Sales_Order_SRS_01.jpeg
-│   └── Sales_Order_SRS_02.jpeg
+├── README.md
 │
-├── Test_Artifacts
-│   └── Sales_order project.xlsx
+├── 01_SRS
+│      Sales_Order_SRS.pdf
 │
-├── Sales_Order_Presentation
-│   └── InFlow_Inventory_Sales_Order_Project.pptx
+├── 02_Test_Artifacts
+│      Sales_Order_Test_Artifacts.xlsx
 │
-└── README.md
+└── 03_Project_Presentation
+       Sales_Order_Project_Presentation.pptx
+       application.png
+---
 
+📋 Project Deliverables
 
-## 📋 Project Deliverables
+Software Requirements Specification (SRS)
+Test Scenarios
+Manual Test Cases
+Test Execution Report
+Bug Reports
+Test Summary Report
+Project Presentation
+Application Screenshots
+---
 
-- Software Requirements Specification (SRS)
-- Manual Test Cases
-- Test Execution Report
-- Bug Reports
-- Project Presentation
+👥 Team Information
+
+Team Size: 3 Members
+My Role: Team Lead
+
+Responsibilities
+
+Performed requirement analysis using the provided SRS.
+Participated in test planning and environment setup.
+Designed positive and negative test cases.
+Executed manual test cases.
+Reported defects with appropriate severity and priority.
+Reviewed teammates' test cases for accuracy and completeness.
+Coordinated testing activities within the team.
+Assisted team members with testing-related issues.
+Monitored testing progress.
+Reviewed reported defects.
+Ensured project deliverables were completed within the planned timeline.
 
 ---
 
-## 👥 Team Information
+🛠️ Tools & Technologies
 
-**Team Size:** 3 Members  
-**My Role:** Team Lead
+InFlow Inventory
+Microsoft Excel
+Microsoft PowerPoint
+Jira
+Google Chrome
+Git
+GitHub
+---
 
-### Responsibilities
+🌟 Project Highlights
 
-- Performed requirement analysis using the provided SRS.
-- Participated in test planning and environment setup.
-- Designed positive and negative test cases.
-- Executed manual test cases.
-- Reported defects with appropriate severity and priority.
-- Reviewed teammates' test cases for accuracy and completeness.
-- Coordinated testing activities within the team.
-- Assisted team members in resolving testing-related issues.
-- Ensured project deliverables were completed on time.
+Followed the Software Testing Life Cycle (STLC).
+Performed manual testing based on a Software Requirements Specification (SRS).
+Designed positive and negative test cases.
+Performed functional and UI testing.
+Executed manual test cases and documented results.
+Identified and reported software defects.
+Applied Severity and Priority concepts during defect reporting.
+Prepared project documentation and presentation.
 
 ---
 
-## 🛠️ Tools & Technologies
+📚 Key Learning Outcomes
 
-- InFlow Inventory
-- Microsoft Excel
-- Microsoft PowerPoint
-- Git
-- GitHub
-
+Applied Software Testing Life Cycle (STLC) concepts in a practical project.
+Improved requirement analysis and test case design skills.
+Gained hands-on experience in manual test execution.
+Learned structured defect reporting using Severity and Priority.
+Improved understanding of functional, UI, positive, negative, regression, and retesting activities.
+Strengthened collaboration, communication, and leadership skills.
+Improved QA documentation and reporting skills.
 ---
 
-## 🌟 Project Highlights
+👩‍💻 Author
 
-- Followed the complete Software Testing Life Cycle (STLC).
-- Performed manual testing based on a Software Requirements Specification (SRS).
-- Designed positive and negative test cases.
-- Executed manual test cases and documented results.
-- Identified and reported software defects with proper bug documentation.
-- Worked as the Team Lead in a three-member testing team.
-- Prepared project documentation and presentation.
+Samruddhi Jagtap
 
----
-
-## 📚 Key Learning Outcomes
-
-- Applied Software Testing Life Cycle (STLC) concepts in a practical project.
-- Improved requirement analysis and test case design skills.
-- Gained hands-on experience in manual test execution.
-- Learned structured defect reporting using severity and priority classification.
-- Strengthened collaboration, communication, and leadership skills while coordinating a three-member testing team.
-- Improved documentation and reporting skills throughout the testing process.
-
----
-
-## 👩‍💻 Author
-
-**Samruddhi Jagtap**
-
-Aspiring QA Engineer | Manual Testing | Learning Automation Testing
-
+Aspiring QA Engineer | Manual Testing | Automation Testing
 
 
 
