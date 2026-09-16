@@ -95,22 +95,7 @@ To perform comprehensive manual testing of the Sales Order module by designing a
 - Summarized testing activities and project outcomes.
 
 ---
-## 📂 Repository Contents
 
-```text
-manual-testing-inflow-sales-order
-│
-├── README.md
-│
-├── 01_Sales_Order_SRS
-│      Sales_Order_SRS_01.jpeg
-│      Sales_Order_SRS_02.jpeg
-│
-├── 02_Test_Artifacts
-│      Sales_Order_Test_Artifacts.xlsx
-│
-└── 03_Sales_Order_Presentation
-       InFlow_Inventory_Sales_Order_Project.pptx
 ## 📂 Repository Contents
 
 ```text
