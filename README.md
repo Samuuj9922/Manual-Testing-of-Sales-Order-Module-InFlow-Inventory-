@@ -124,7 +124,6 @@ Manual-testing-sales-order_module
 
 - Software Requirements Specification (SRS)
 - Manual Test Cases
-- Test Execution Report
 - Bug Reports
 - Project Presentation
 
